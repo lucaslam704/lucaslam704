@@ -49,43 +49,43 @@ Southern Alberta Institute of Technology (SAIT) – Canada, 2025
 
 ### Languages
 <p>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C Icon" height="40" width="40" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-1-225993.png" alt="JavaScript Icon" height="40" width="40" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="TypeScript Icon" height="40" width="40" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png" alt="Python Icon" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="TSX Icon" height="40" width="40" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C Icon" height="60" width="60" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-1-225993.png" alt="JavaScript Icon" height="60" width="60" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="TypeScript Icon" height="60" width="60" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png" alt="Python Icon" height="60" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="TSX Icon" height="60" width="60" />
 </p>
 
 ### Frameworks / Libraries
 <p>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png" alt="ReactJS Icon" height="40" width="40" />
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native Icon" height="40" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Node.js Icon" height="40" width="40" />
-  <img src="https://vitejs.dev/logo.svg" alt="Vite Icon" height="40" width="40" />
-  <img src="https://miro.medium.com/v2/resize:fit:572/1*Mo-09Vngs5t_oWGqHZuPtg.png" alt="React Router DOM Icon" height="40" width="40" />
-  <img src="https://iconape.com/wp-content/png_logo_vector/tailwind-css-logo.png" alt="Tailwind CSS Icon" height="40" width="60" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/react-4-1175110.png" alt="ReactJS Icon" height="60" width="60" />
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native Icon" height="60" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Node.js Icon" height="60" width="60" />
+  <img src="https://vitejs.dev/logo.svg" alt="Vite Icon" height="60" width="60" />
+  <img src="https://miro.medium.com/v2/resize:fit:572/1*Mo-09Vngs5t_oWGqHZuPtg.png" alt="React Router DOM Icon" height="60" width="60" />
+  <img src="https://iconape.com/wp-content/png_logo_vector/tailwind-css-logo.png" alt="Tailwind CSS Icon" height="60" width="60" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://www.sprezzatech.com/wiki/images/8/86/Mysql-logo.jpg" alt="MySQL Icon" height="40" width="40" />
-  <img src="https://smarx.com/posts/2021/01/hello-firestore-adding-live-data-to-your-web-apps/firestore-featured.png" alt="Firestore Icon" height="40" width="40" />
-  <img src="https://supabase.com/dashboard/img/supabase-logo.svg" alt="Supabase Icon" height="40" width="40" />
+  <img src="https://www.sprezzatech.com/wiki/images/8/86/Mysql-logo.jpg" alt="MySQL Icon" height="60" width="60" />
+  <img src="https://smarx.com/posts/2021/01/hello-firestore-adding-live-data-to-your-web-apps/firestore-featured.png" alt="Firestore Icon" height="60" width="60" />
+  <img src="https://supabase.com/dashboard/img/supabase-logo.svg" alt="Supabase Icon" height="60" width="60" />
 </p>
 
 ### Frontend Development
 <p>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/html5-2038876-1721675.png" alt="HTML5 Icon" height="40" width="40" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/css3-11-1175239.png" alt="CSS3 Icon" height="40" width="40" />
-  <img src="https://iconape.com/wp-content/png_logo_vector/tailwind-css-logo.png" alt="Tailwind CSS Icon" height="40" width="60" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/angular-3-226070.png" alt="Angular Icon" height="40" width="40" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/html5-2038876-1721675.png" alt="HTML5 Icon" height="60" width="60" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/css3-11-1175239.png" alt="CSS3 Icon" height="60" width="60" />
+  <img src="https://iconape.com/wp-content/png_logo_vector/tailwind-css-logo.png" alt="Tailwind CSS Icon" height="60" width="60" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/angular-3-226070.png" alt="Angular Icon" height="60" width="60" />
 </p>
 
 ### Cloud & Deployment
 <p>
-  <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="Vercel Icon" height="40" width="40" />
-  <img src="https://download.logo.wine/logo/Cloudinary/Cloudinary-Logo.wine.png" alt="Cloudinary Icon" height="60" width="60" />
-  <img src="https://www.testmanagement.com/wp-content/uploads/2021/07/microsoft-azure-devops-logo.jpeg" alt="Azure DevOps Icon" height="60" width="60" />
+  <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="Vercel Icon" height="60" width="60" />
+  <img src="https://download.logo.wine/logo/Cloudinary/Cloudinary-Logo.wine.png" alt="Cloudinary Icon" height="80" width="80" />
+  <img src="https://www.testmanagement.com/wp-content/uploads/2021/07/microsoft-azure-devops-logo.jpeg" alt="Azure DevOps Icon" height="0" width="80" />
 </p>
 
 ### AI Integration
