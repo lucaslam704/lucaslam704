@@ -85,7 +85,7 @@ Southern Alberta Institute of Technology (SAIT) – Canada, 2025
 <p>
   <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="Vercel Icon" height="60" width="60" />
   <img src="https://download.logo.wine/logo/Cloudinary/Cloudinary-Logo.wine.png" alt="Cloudinary Icon" height="80" width="80" />
-  <img src="https://www.testmanagement.com/wp-content/uploads/2021/07/microsoft-azure-devops-logo.jpeg" alt="Azure DevOps Icon" height="0" width="80" />
+  <img src="https://www.testmanagement.com/wp-content/uploads/2021/07/microsoft-azure-devops-logo.jpeg" alt="Azure DevOps Icon" height="80" width="80" />
 </p>
 
 ### AI Integration
